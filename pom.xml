@@ -141,6 +141,7 @@
         <module>gateway-topology-hadoop-xml</module>
         <module>gateway-service-metadata</module>
         <module>knox-homepage-ui</module>
+        <module>gateway-service-delegationtokens</module>
     </modules>
 
     <properties>
