@@ -146,6 +146,7 @@
         <module>knox-homepage-ui</module>
         <module>gateway-openapi-ui</module>
         <module>knox-token-management-ui</module>
+        <module>gateway-service-delegationtokens</module>
     </modules>
 
     <properties>
